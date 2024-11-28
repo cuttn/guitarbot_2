@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.env
+venv/
+.venv/
+ENV/
+lib/
+bin/
+include/
+pyvenv.cfg
+.Python
+playwright-downloads/
+node_modules/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
