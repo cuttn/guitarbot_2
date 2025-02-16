@@ -1,0 +1,3 @@
+- pip install requirements
+- run the script
+- profit
